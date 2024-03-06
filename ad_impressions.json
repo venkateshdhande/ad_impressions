@@ -1,0 +1,602 @@
+[
+    {
+        "ad_id": "ad_000",
+        "user_id": "user_49",
+        "timestamp": "2024-03-04T08:22:41",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_001",
+        "user_id": "user_38",
+        "timestamp": "2024-03-04T12:01:56",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_002",
+        "user_id": "user_29",
+        "timestamp": "2024-03-06T03:29:59",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_003",
+        "user_id": "user_79",
+        "timestamp": "2024-03-02T01:35:55",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_004",
+        "user_id": "user_84",
+        "timestamp": "2024-03-03T20:01:48",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_005",
+        "user_id": "user_33",
+        "timestamp": "2024-03-05T07:26:44",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_006",
+        "user_id": "user_52",
+        "timestamp": "2024-03-02T10:42:05",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_007",
+        "user_id": "user_49",
+        "timestamp": "2024-03-02T08:57:23",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_008",
+        "user_id": "user_21",
+        "timestamp": "2024-03-04T15:34:46",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_009",
+        "user_id": "user_40",
+        "timestamp": "2024-03-05T06:02:24",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_010",
+        "user_id": "user_18",
+        "timestamp": "2024-03-02T08:14:11",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_011",
+        "user_id": "user_34",
+        "timestamp": "2024-03-02T16:43:38",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_012",
+        "user_id": "user_84",
+        "timestamp": "2024-03-02T01:24:34",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_013",
+        "user_id": "user_96",
+        "timestamp": "2024-03-03T20:09:54",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_014",
+        "user_id": "user_41",
+        "timestamp": "2024-03-04T01:51:48",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_015",
+        "user_id": "user_19",
+        "timestamp": "2024-03-03T02:08:33",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_016",
+        "user_id": "user_71",
+        "timestamp": "2024-03-03T11:32:44",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_017",
+        "user_id": "user_92",
+        "timestamp": "2024-03-03T21:57:16",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_018",
+        "user_id": "user_84",
+        "timestamp": "2024-03-04T22:47:26",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_019",
+        "user_id": "user_38",
+        "timestamp": "2024-03-03T01:01:08",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_020",
+        "user_id": "user_31",
+        "timestamp": "2024-03-01T15:01:02",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_021",
+        "user_id": "user_85",
+        "timestamp": "2024-03-01T03:54:05",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_022",
+        "user_id": "user_24",
+        "timestamp": "2024-03-01T18:31:39",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_023",
+        "user_id": "user_45",
+        "timestamp": "2024-03-01T19:02:52",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_024",
+        "user_id": "user_37",
+        "timestamp": "2024-03-06T09:59:30",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_025",
+        "user_id": "user_88",
+        "timestamp": "2024-03-01T12:09:32",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_026",
+        "user_id": "user_85",
+        "timestamp": "2024-03-02T07:31:17",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_027",
+        "user_id": "user_66",
+        "timestamp": "2024-03-05T07:21:25",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_028",
+        "user_id": "user_20",
+        "timestamp": "2024-03-04T13:09:01",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_029",
+        "user_id": "user_80",
+        "timestamp": "2024-03-06T13:38:00",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_030",
+        "user_id": "user_44",
+        "timestamp": "2024-03-05T15:44:03",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_031",
+        "user_id": "user_17",
+        "timestamp": "2024-03-04T15:05:59",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_032",
+        "user_id": "user_41",
+        "timestamp": "2024-03-01T21:11:14",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_033",
+        "user_id": "user_97",
+        "timestamp": "2024-03-03T22:22:29",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_034",
+        "user_id": "user_84",
+        "timestamp": "2024-03-05T11:03:47",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_035",
+        "user_id": "user_31",
+        "timestamp": "2024-03-01T08:22:54",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_036",
+        "user_id": "user_67",
+        "timestamp": "2024-03-06T13:46:14",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_037",
+        "user_id": "user_65",
+        "timestamp": "2024-03-04T20:11:04",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_038",
+        "user_id": "user_3",
+        "timestamp": "2024-03-03T09:36:38",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_039",
+        "user_id": "user_12",
+        "timestamp": "2024-03-03T22:04:46",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_040",
+        "user_id": "user_1",
+        "timestamp": "2024-03-03T23:08:23",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_041",
+        "user_id": "user_97",
+        "timestamp": "2024-03-06T18:01:53",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_042",
+        "user_id": "user_98",
+        "timestamp": "2024-03-02T08:59:05",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_043",
+        "user_id": "user_68",
+        "timestamp": "2024-03-03T09:31:46",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_044",
+        "user_id": "user_34",
+        "timestamp": "2024-03-06T18:00:03",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_045",
+        "user_id": "user_75",
+        "timestamp": "2024-03-04T03:10:43",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_046",
+        "user_id": "user_13",
+        "timestamp": "2024-03-03T16:34:40",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_047",
+        "user_id": "user_28",
+        "timestamp": "2024-03-04T02:02:27",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_048",
+        "user_id": "user_82",
+        "timestamp": "2024-03-06T04:24:01",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_049",
+        "user_id": "user_70",
+        "timestamp": "2024-03-01T20:50:52",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_050",
+        "user_id": "user_49",
+        "timestamp": "2024-03-01T15:03:01",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_051",
+        "user_id": "user_38",
+        "timestamp": "2024-03-02T00:00:42",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_052",
+        "user_id": "user_35",
+        "timestamp": "2024-03-01T18:08:41",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_053",
+        "user_id": "user_15",
+        "timestamp": "2024-03-04T20:18:08",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_054",
+        "user_id": "user_26",
+        "timestamp": "2024-03-02T19:09:08",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_055",
+        "user_id": "user_79",
+        "timestamp": "2024-03-02T15:11:02",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_056",
+        "user_id": "user_93",
+        "timestamp": "2024-03-05T18:06:21",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_057",
+        "user_id": "user_33",
+        "timestamp": "2024-03-05T18:54:37",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_058",
+        "user_id": "user_54",
+        "timestamp": "2024-03-02T14:09:27",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_059",
+        "user_id": "user_36",
+        "timestamp": "2024-03-05T18:26:23",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_060",
+        "user_id": "user_5",
+        "timestamp": "2024-03-05T03:26:22",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_061",
+        "user_id": "user_50",
+        "timestamp": "2024-03-01T18:13:50",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_062",
+        "user_id": "user_40",
+        "timestamp": "2024-03-01T23:46:04",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_063",
+        "user_id": "user_81",
+        "timestamp": "2024-03-01T08:16:37",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_064",
+        "user_id": "user_84",
+        "timestamp": "2024-03-05T04:50:59",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_065",
+        "user_id": "user_83",
+        "timestamp": "2024-03-05T06:35:34",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_066",
+        "user_id": "user_53",
+        "timestamp": "2024-03-03T12:04:33",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_067",
+        "user_id": "user_77",
+        "timestamp": "2024-03-01T21:48:27",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_068",
+        "user_id": "user_74",
+        "timestamp": "2024-03-04T23:52:32",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_069",
+        "user_id": "user_5",
+        "timestamp": "2024-03-05T03:21:14",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_070",
+        "user_id": "user_96",
+        "timestamp": "2024-03-05T16:31:15",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_071",
+        "user_id": "user_81",
+        "timestamp": "2024-03-03T12:32:17",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_072",
+        "user_id": "user_7",
+        "timestamp": "2024-03-06T08:23:22",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_073",
+        "user_id": "user_10",
+        "timestamp": "2024-03-03T16:26:05",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_074",
+        "user_id": "user_38",
+        "timestamp": "2024-03-04T04:19:25",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_075",
+        "user_id": "user_90",
+        "timestamp": "2024-03-03T03:15:27",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_076",
+        "user_id": "user_90",
+        "timestamp": "2024-03-02T17:59:27",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_077",
+        "user_id": "user_61",
+        "timestamp": "2024-03-06T01:05:45",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_078",
+        "user_id": "user_98",
+        "timestamp": "2024-03-05T07:26:00",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_079",
+        "user_id": "user_24",
+        "timestamp": "2024-03-04T07:38:31",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_080",
+        "user_id": "user_18",
+        "timestamp": "2024-03-01T01:11:23",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_081",
+        "user_id": "user_42",
+        "timestamp": "2024-03-04T05:31:40",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_082",
+        "user_id": "user_23",
+        "timestamp": "2024-03-04T01:56:45",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_083",
+        "user_id": "user_70",
+        "timestamp": "2024-03-06T22:46:37",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_084",
+        "user_id": "user_68",
+        "timestamp": "2024-03-04T11:29:57",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_085",
+        "user_id": "user_12",
+        "timestamp": "2024-03-06T11:46:24",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_086",
+        "user_id": "user_15",
+        "timestamp": "2024-03-01T15:07:51",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_087",
+        "user_id": "user_58",
+        "timestamp": "2024-03-06T18:46:31",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_088",
+        "user_id": "user_70",
+        "timestamp": "2024-03-04T20:03:25",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_089",
+        "user_id": "user_97",
+        "timestamp": "2024-03-02T08:17:08",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_090",
+        "user_id": "user_22",
+        "timestamp": "2024-03-01T23:19:19",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_091",
+        "user_id": "user_36",
+        "timestamp": "2024-03-04T14:18:36",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_092",
+        "user_id": "user_70",
+        "timestamp": "2024-03-01T09:45:22",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_093",
+        "user_id": "user_34",
+        "timestamp": "2024-03-02T17:24:56",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_094",
+        "user_id": "user_35",
+        "timestamp": "2024-03-01T14:43:09",
+        "website": "siteC.com"
+    },
+    {
+        "ad_id": "ad_095",
+        "user_id": "user_73",
+        "timestamp": "2024-03-02T01:36:40",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_096",
+        "user_id": "user_27",
+        "timestamp": "2024-03-04T15:55:54",
+        "website": "siteA.com"
+    },
+    {
+        "ad_id": "ad_097",
+        "user_id": "user_69",
+        "timestamp": "2024-03-01T08:37:05",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_098",
+        "user_id": "user_84",
+        "timestamp": "2024-03-01T06:31:40",
+        "website": "siteB.com"
+    },
+    {
+        "ad_id": "ad_099",
+        "user_id": "user_12",
+        "timestamp": "2024-03-04T10:59:00",
+        "website": "siteB.com"
+    }
+]
